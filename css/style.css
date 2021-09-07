@@ -95,7 +95,7 @@ header, #topMain {
 }
 
 #container {
-    background-image: url('../img/list-bg.png');
+    background-image: url('../assets/list-bg.png');
     background-repeat: no-repeat;
     height: 100%;
     width: 900px;
